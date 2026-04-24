@@ -1,5 +1,6 @@
 # Vaja13-7segment-STM32L1
 2.b)
+
 segment a: PA1                                                                                
 
 segment b: PA2                                              
